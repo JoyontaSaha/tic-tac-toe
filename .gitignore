@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+
+*.log
+*.tmp
+*.swp
+
+.env
+.vscode
+.idea
+
+*.min.js
+*.min.css
