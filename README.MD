@@ -4,7 +4,11 @@ A simple implementation of the classic Tic Tac Toe game using React and Bootstra
 
 ![Tic-Tac-Toe Game Board](/public/static/Tic-Tac-Toe.png)
 
-## Click To Play: https://joyontasaha.github.io/tic-tac-toe
+<h1><a href="https://joyontasaha.github.io/tic-tac-toe">Click & Start Playing Now!</a></h1>
+
+[1]: https://joyontasaha.github.io/tic-tac-toe
+
+
 
 ## Features
 
